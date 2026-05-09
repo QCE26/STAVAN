@@ -46,7 +46,9 @@ STAVAN/
 
 ## Key References
 [1]: S. Aaronson and D. Gottesman, “Improved simulation of stabilizer circuits,” Phys. Rev. A, vol. 70, p. 052328, Nov 2004.
+
 [2] S. Bravyi and D. Gosset, “Improved classical simulation of quantum circuits dominated by clifford gates,” Phys. Rev. Lett., vol. 116, p. 250501, Jun 2016.
+
 [3] S. Bravyi, D. Browne, P. Calpin, E. Campbell, D. Gosset, and M. Howard, “Simulation of quantum circuits by low-rank stabilizer decompositions,” Quantum, vol. 3, p. 181, Sep 2019.
 ## License
 This project is licensed under the MIT License. See ```LICENSE``` file for details.
