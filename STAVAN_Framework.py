@@ -166,7 +166,7 @@ class STAVAN:
                     if(phases[i] == 0):
                         st = "+  "
                     elif(phases[i] == 1):
-                        st = "+j  "
+                        st = "+j "
                     elif(phases[i] == 2):
                         st = "-  "
                     else:
