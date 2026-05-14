@@ -2,7 +2,6 @@
 import numpy as np
 import STAVAN_Framework
 from STAVAN_Framework import *
-from hidden_shift import *
 import matplotlib.pyplot as plt
 import time
 import os
