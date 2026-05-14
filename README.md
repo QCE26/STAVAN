@@ -24,7 +24,7 @@ In Approach 3, STAVAN optimizes the time complexity and the memory footprint,  b
 
 ```bash
 # Clone the repository
-git clone [https://github.com/yourusername/STAVAN.git](https://github.com/yourusername/STAVAN.git)
+git clone https://github.com/QCE26/STAVAN.git
 cd STAVAN
 ```
 
