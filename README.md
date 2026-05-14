@@ -42,7 +42,7 @@ STAVAN/
 
 - The Python based code for STAVAN framework is available in ```STAVAN_Framework.py``` file. MATLAB version would be made available soon.
 - To initialize the Stabilizer Tableau, you need to provide the number of qubits $n$, $T$-count (if you use Approach 2 or 3) before hand. If you use Approach 3, you need to provide the number of samples $N$ when calculating output probability. ```demo.ipynb``` provides details regarding the same.
-- ```benchmarking.py``` contains the Hard-$T$ structure based quantum circuits (from Clifford + T gate set) that were used for simulations and performative analysis. ```testing.py``` gives a template script of using the STAVAN Framework to simulate quantum circuits.
+- ```benchmarking.py``` contains the Hard- $T$ structure based quantum circuits (from Clifford + T gate set) that were used for simulations and performative analysis. ```testing.py``` gives a template script of using the STAVAN Framework to simulate quantum circuits.
 
 ## Key References
 [1]: S. Aaronson and D. Gottesman, “Improved simulation of stabilizer circuits,” Phys. Rev. A, vol. 70, p. 052328, Nov 2004.
